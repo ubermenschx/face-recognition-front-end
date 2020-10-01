@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Book Antiqua";
+  background: linear-gradient(0.25turn, #5dc5f1, #ebf8e1, #f69d3c); /* w3c */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+button {
+  cursor: pointer;
+}
